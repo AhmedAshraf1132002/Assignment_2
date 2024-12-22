@@ -145,6 +145,7 @@ namespace Assignment_2
 
 
             //Console.WriteLine($"{Num1}^{Num2} = {result}");
+            //
 
 
 
